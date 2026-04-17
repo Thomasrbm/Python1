@@ -18,7 +18,7 @@ if __name__ == "__main__":
         tab = load_image.ft_load("animal.jpeg")
         print(tab)
         sliced = tab[100:500, 450:850, 1:2]
-        print(f"New shape after Transpose: ", end="")
+        print("New shape after Transpose: ", end="")
         transposed = rotate(sliced)
         print(transposed.shape)
         print(transposed)
