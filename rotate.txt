@@ -1,0 +1,18 @@
+tab[0, 0] = A    tab[0, 1] = B    tab[0, 2] = C
+tab[1, 0] = E    tab[1, 1] = F    tab[1, 2] = G
+tab[2, 0] = I    tab[2, 1] = J    tab[2, 2] = K
+
+
+
+A B C
+E F G
+I J K
+
+
+a 
+
+
+A E I
+B F J
+C G K
+
